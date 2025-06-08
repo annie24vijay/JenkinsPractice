@@ -6,6 +6,7 @@ public class HelloGuys {
                 System.out.println("I am sorry Jesus")
                 System.out.println("Forgive me Jesus");
                 System.out.println("I am a sinner");
-                System.out.println("I am guilty")//newly added
+                System.out.println("I am guilty");
+                System.out.println("I am guilty"); //newly added
         }
 }
